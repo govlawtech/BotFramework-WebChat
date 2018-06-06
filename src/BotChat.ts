@@ -4,3 +4,4 @@ export * from 'botframework-directlinejs';
 export { queryParams } from './Attachment';
 export { SpeechOptions } from './SpeechOptions'
 export { Speech } from './SpeechModule'
+export * from './CognitiveServices/lib'

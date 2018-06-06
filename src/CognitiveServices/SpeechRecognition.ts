@@ -1,6 +1,6 @@
 import { Speech, Func, Action } from '../SpeechModule'
 import * as konsole from '../Konsole';
-import * as CognitiveSpeech from 'microsoft-speech-browser-sdk/Speech.Browser.Sdk'
+import * as CognitiveSpeech from 'microsoft-speech-browser-sdk'
 import updateIn from 'simple-update-in';
 
 export interface ISpeechContextDgiGroup {
